@@ -1,2 +1,3 @@
-# Cat_Photo_App_HTML
-  Learn HTML by Building a Cat Photo App
+# mycode_miniprojects
+# project1
+1. sunrise(hire_me)
